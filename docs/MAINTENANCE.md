@@ -47,7 +47,22 @@ gh workflow run deploy.yml
 
 ---
 
-## 2. Managing Content
+## 3. Local Development (Live Preview)
+
+The easiest and cleanest way to preview changes locally without installing Ruby gems or compilers is with **Docker**:
+
+```bash
+cd /home/vinayak/Documents/github_repos/vinayakvijay.github.io
+docker compose -f docker-compose-slim.yml up
+```
+
+* Open your browser at: **`http://localhost:4000`**
+* **Live Reloading:** Any edit you make to `.md` posts, `papers.bib`, or `_pages/about.md` is detected automatically and updates in the browser on save.
+* Press `Ctrl + C` in your terminal when you want to stop the local server.
+
+---
+
+## 4. Content Management Guides
 
 ### Adding a Publication
 Add standard BibTeX entries directly to `_bibliography/papers.bib`:
