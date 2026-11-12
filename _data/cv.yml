@@ -1,0 +1,54 @@
+cv:
+  name: Vinayak Vijay
+  label: PhD Candidate in Applied Mechanics
+  email: vinayak@am.iitd.ac.in
+  location: New Delhi, India
+  image: ""
+  summary: PhD candidate studying slender rod theories, mechanics of continuum, and nanoscale structures at IIT Delhi.
+
+  social_networks:
+    - network: GitHub
+      username: vinayakvijay
+    - network: LinkedIn
+      username: vinayak-vijay-a4413368
+    - network: X
+      username: imomnipresent
+
+  sections:
+    Education:
+      - institution: Indian Institute of Technology Delhi
+        location: New Delhi, India
+        url: https://am.iitd.ac.in/
+        area: Applied Mechanics
+        studyType: Ph.D.
+        start_date: 2022
+        end_date: Present
+        highlights:
+          - "Supervisors: Prof. Ajeet Kumar & Prof. Prateek Gupta"
+          - "Focus: Geometrically exact rod theories, 3D deformation, and metamaterials."
+
+      - institution: Indian Institute of Technology Delhi
+        location: New Delhi, India
+        url: https://am.iitd.ac.in/
+        area: Applied Mechanics
+        studyType: M.S. (Research)
+        start_date: 2019
+        end_date: 2021
+        highlights:
+          - "Supervisor: Prof. Ajeet Kumar"
+
+      - institution: Delhi Technological University (DTU)
+        location: Delhi, India
+        url: http://dtu.ac.in/
+        area: Mechanical Engineering
+        studyType: B.Tech.
+        start_date: 2012
+        end_date: 2016
+
+    Experience:
+      - company: Bechtel Corporation
+        position: Design Engineer
+        start_date: 2016
+        end_date: 2019
+        highlights:
+          - Stress analysis and mechanical structural evaluation.

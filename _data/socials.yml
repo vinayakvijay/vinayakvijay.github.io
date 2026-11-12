@@ -1,0 +1,10 @@
+# this file contains the social media links and usernames of the author
+# the socials will be displayed in the order they are defined here
+# for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
+email: vinayak@am.iitd.ac.in # your email address
+scholar_userid: mu1dyyMAAAAJ # your Google Scholar ID
+github_username: vinayakvijay # your GitHub user name
+linkedin_username: vinayak-vijay-a4413368 # your LinkedIn user name
+x_username: imomnipresent # your X / Twitter handle
+researchgate_profile: Vinayak-Vinayak-3 # your ResearchGate profile
+rss_icon: true # set to true to display the RSS icon
